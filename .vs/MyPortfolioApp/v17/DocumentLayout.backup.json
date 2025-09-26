@@ -1,0 +1,281 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kcray\\OneDrive\\Desktop\\multiplatform app development\\MyPortfolioApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A747A0A9-6782-46C8-A10A-B611F74CFF49}|MyPortfolioApp.csproj|c:\\users\\kcray\\onedrive\\desktop\\multiplatform app development\\myportfolioapp\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A747A0A9-6782-46C8-A10A-B611F74CFF49}|MyPortfolioApp.csproj|solutionrelative:mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A747A0A9-6782-46C8-A10A-B611F74CFF49}|MyPortfolioApp.csproj|c:\\users\\kcray\\onedrive\\desktop\\multiplatform app development\\myportfolioapp\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A747A0A9-6782-46C8-A10A-B611F74CFF49}|MyPortfolioApp.csproj|solutionrelative:components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A747A0A9-6782-46C8-A10A-B611F74CFF49}|MyPortfolioApp.csproj|c:\\users\\kcray\\onedrive\\desktop\\multiplatform app development\\myportfolioapp\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A747A0A9-6782-46C8-A10A-B611F74CFF49}|MyPortfolioApp.csproj|solutionrelative:components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A747A0A9-6782-46C8-A10A-B611F74CFF49}|MyPortfolioApp.csproj|c:\\users\\kcray\\onedrive\\desktop\\multiplatform app development\\myportfolioapp\\shared\\projectcard.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A747A0A9-6782-46C8-A10A-B611F74CFF49}|MyPortfolioApp.csproj|solutionrelative:shared\\projectcard.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A747A0A9-6782-46C8-A10A-B611F74CFF49}|MyPortfolioApp.csproj|c:\\users\\kcray\\onedrive\\desktop\\multiplatform app development\\myportfolioapp\\shared\\projectcard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A747A0A9-6782-46C8-A10A-B611F74CFF49}|MyPortfolioApp.csproj|solutionrelative:shared\\projectcard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A747A0A9-6782-46C8-A10A-B611F74CFF49}|MyPortfolioApp.csproj|c:\\users\\kcray\\onedrive\\desktop\\multiplatform app development\\myportfolioapp\\pages\\projects.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A747A0A9-6782-46C8-A10A-B611F74CFF49}|MyPortfolioApp.csproj|solutionrelative:pages\\projects.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A747A0A9-6782-46C8-A10A-B611F74CFF49}|MyPortfolioApp.csproj|c:\\users\\kcray\\onedrive\\desktop\\multiplatform app development\\myportfolioapp\\pages\\projects.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A747A0A9-6782-46C8-A10A-B611F74CFF49}|MyPortfolioApp.csproj|solutionrelative:pages\\projects.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A747A0A9-6782-46C8-A10A-B611F74CFF49}|MyPortfolioApp.csproj|c:\\users\\kcray\\onedrive\\desktop\\multiplatform app development\\myportfolioapp\\pages\\contact.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A747A0A9-6782-46C8-A10A-B611F74CFF49}|MyPortfolioApp.csproj|solutionrelative:pages\\contact.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A747A0A9-6782-46C8-A10A-B611F74CFF49}|MyPortfolioApp.csproj|c:\\users\\kcray\\onedrive\\desktop\\multiplatform app development\\myportfolioapp\\pages\\contact.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A747A0A9-6782-46C8-A10A-B611F74CFF49}|MyPortfolioApp.csproj|solutionrelative:pages\\contact.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A747A0A9-6782-46C8-A10A-B611F74CFF49}|MyPortfolioApp.csproj|c:\\users\\kcray\\onedrive\\desktop\\multiplatform app development\\myportfolioapp\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A747A0A9-6782-46C8-A10A-B611F74CFF49}|MyPortfolioApp.csproj|solutionrelative:pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A747A0A9-6782-46C8-A10A-B611F74CFF49}|MyPortfolioApp.csproj|c:\\users\\kcray\\onedrive\\desktop\\multiplatform app development\\myportfolioapp\\pages\\about.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A747A0A9-6782-46C8-A10A-B611F74CFF49}|MyPortfolioApp.csproj|solutionrelative:pages\\about.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A747A0A9-6782-46C8-A10A-B611F74CFF49}|MyPortfolioApp.csproj|c:\\users\\kcray\\onedrive\\desktop\\multiplatform app development\\myportfolioapp\\pages\\about.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A747A0A9-6782-46C8-A10A-B611F74CFF49}|MyPortfolioApp.csproj|solutionrelative:pages\\about.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A747A0A9-6782-46C8-A10A-B611F74CFF49}|MyPortfolioApp.csproj|c:\\users\\kcray\\onedrive\\desktop\\multiplatform app development\\myportfolioapp\\pages\\index.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A747A0A9-6782-46C8-A10A-B611F74CFF49}|MyPortfolioApp.csproj|solutionrelative:pages\\index.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A747A0A9-6782-46C8-A10A-B611F74CFF49}|MyPortfolioApp.csproj|c:\\users\\kcray\\onedrive\\desktop\\multiplatform app development\\myportfolioapp\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A747A0A9-6782-46C8-A10A-B611F74CFF49}|MyPortfolioApp.csproj|solutionrelative:wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A747A0A9-6782-46C8-A10A-B611F74CFF49}|MyPortfolioApp.csproj|c:\\users\\kcray\\onedrive\\desktop\\multiplatform app development\\myportfolioapp\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A747A0A9-6782-46C8-A10A-B611F74CFF49}|MyPortfolioApp.csproj|solutionrelative:components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A747A0A9-6782-46C8-A10A-B611F74CFF49}|MyPortfolioApp.csproj|c:\\users\\kcray\\onedrive\\desktop\\multiplatform app development\\myportfolioapp\\myportfolioapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A747A0A9-6782-46C8-A10A-B611F74CFF49}|MyPortfolioApp.csproj|solutionrelative:myportfolioapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\kcray\\OneDrive\\Desktop\\multiplatform app development\\MyPortfolioApp\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "MauiProgram.cs",
+              "ToolTip": "C:\\Users\\kcray\\OneDrive\\Desktop\\multiplatform app development\\MyPortfolioApp\\MauiProgram.cs",
+              "RelativeToolTip": "MauiProgram.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T21:39:24.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\kcray\\OneDrive\\Desktop\\multiplatform app development\\MyPortfolioApp\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "Components\\_Imports.razor",
+              "ToolTip": "C:\\Users\\kcray\\OneDrive\\Desktop\\multiplatform app development\\MyPortfolioApp\\Components\\_Imports.razor",
+              "RelativeToolTip": "Components\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-25T21:42:45.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProjectCard.razor.css",
+              "DocumentMoniker": "C:\\Users\\kcray\\OneDrive\\Desktop\\multiplatform app development\\MyPortfolioApp\\Shared\\ProjectCard.razor.css",
+              "RelativeDocumentMoniker": "Shared\\ProjectCard.razor.css",
+              "ToolTip": "C:\\Users\\kcray\\OneDrive\\Desktop\\multiplatform app development\\MyPortfolioApp\\Shared\\ProjectCard.razor.css",
+              "RelativeToolTip": "Shared\\ProjectCard.razor.css",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAqwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-09-25T20:21:21.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Projects.razor.css",
+              "DocumentMoniker": "C:\\Users\\kcray\\OneDrive\\Desktop\\multiplatform app development\\MyPortfolioApp\\Pages\\Projects.razor.css",
+              "RelativeDocumentMoniker": "Pages\\Projects.razor.css",
+              "ToolTip": "C:\\Users\\kcray\\OneDrive\\Desktop\\multiplatform app development\\MyPortfolioApp\\Pages\\Projects.razor.css",
+              "RelativeToolTip": "Pages\\Projects.razor.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-09-25T20:35:31.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Projects.razor",
+              "DocumentMoniker": "C:\\Users\\kcray\\OneDrive\\Desktop\\multiplatform app development\\MyPortfolioApp\\Pages\\Projects.razor",
+              "RelativeDocumentMoniker": "Pages\\Projects.razor",
+              "ToolTip": "C:\\Users\\kcray\\OneDrive\\Desktop\\multiplatform app development\\MyPortfolioApp\\Pages\\Projects.razor",
+              "RelativeToolTip": "Pages\\Projects.razor",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-25T17:42:47.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProjectCard.razor",
+              "DocumentMoniker": "C:\\Users\\kcray\\OneDrive\\Desktop\\multiplatform app development\\MyPortfolioApp\\Shared\\ProjectCard.razor",
+              "RelativeDocumentMoniker": "Shared\\ProjectCard.razor",
+              "ToolTip": "C:\\Users\\kcray\\OneDrive\\Desktop\\multiplatform app development\\MyPortfolioApp\\Shared\\ProjectCard.razor",
+              "RelativeToolTip": "Shared\\ProjectCard.razor",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-25T17:53:08.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Contact.razor",
+              "DocumentMoniker": "C:\\Users\\kcray\\OneDrive\\Desktop\\multiplatform app development\\MyPortfolioApp\\Pages\\Contact.razor",
+              "RelativeDocumentMoniker": "Pages\\Contact.razor",
+              "ToolTip": "C:\\Users\\kcray\\OneDrive\\Desktop\\multiplatform app development\\MyPortfolioApp\\Pages\\Contact.razor",
+              "RelativeToolTip": "Pages\\Contact.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-25T17:43:23.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\kcray\\OneDrive\\Desktop\\multiplatform app development\\MyPortfolioApp\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "Components\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\kcray\\OneDrive\\Desktop\\multiplatform app development\\MyPortfolioApp\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "Components\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-25T18:45:27.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Contact.razor.css",
+              "DocumentMoniker": "C:\\Users\\kcray\\OneDrive\\Desktop\\multiplatform app development\\MyPortfolioApp\\Pages\\Contact.razor.css",
+              "RelativeDocumentMoniker": "Pages\\Contact.razor.css",
+              "ToolTip": "C:\\Users\\kcray\\OneDrive\\Desktop\\multiplatform app development\\MyPortfolioApp\\Pages\\Contact.razor.css",
+              "RelativeToolTip": "Pages\\Contact.razor.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-09-25T20:36:39.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.razor",
+              "DocumentMoniker": "C:\\Users\\kcray\\OneDrive\\Desktop\\multiplatform app development\\MyPortfolioApp\\Pages\\Index.razor",
+              "RelativeDocumentMoniker": "Pages\\Index.razor",
+              "ToolTip": "C:\\Users\\kcray\\OneDrive\\Desktop\\multiplatform app development\\MyPortfolioApp\\Pages\\Index.razor",
+              "RelativeToolTip": "Pages\\Index.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-25T17:41:37.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "About.razor.css",
+              "DocumentMoniker": "C:\\Users\\kcray\\OneDrive\\Desktop\\multiplatform app development\\MyPortfolioApp\\Pages\\About.razor.css",
+              "RelativeDocumentMoniker": "Pages\\About.razor.css",
+              "ToolTip": "C:\\Users\\kcray\\OneDrive\\Desktop\\multiplatform app development\\MyPortfolioApp\\Pages\\About.razor.css",
+              "RelativeToolTip": "Pages\\About.razor.css",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-09-25T20:34:43.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "app.css",
+              "DocumentMoniker": "C:\\Users\\kcray\\OneDrive\\Desktop\\multiplatform app development\\MyPortfolioApp\\wwwroot\\css\\app.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\app.css",
+              "ToolTip": "C:\\Users\\kcray\\OneDrive\\Desktop\\multiplatform app development\\MyPortfolioApp\\wwwroot\\css\\app.css",
+              "RelativeToolTip": "wwwroot\\css\\app.css",
+              "ViewState": "AgIAABUAAAAAAAAAAAAUwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-09-25T19:11:24.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "About.razor",
+              "DocumentMoniker": "C:\\Users\\kcray\\OneDrive\\Desktop\\multiplatform app development\\MyPortfolioApp\\Pages\\About.razor",
+              "RelativeDocumentMoniker": "Pages\\About.razor",
+              "ToolTip": "C:\\Users\\kcray\\OneDrive\\Desktop\\multiplatform app development\\MyPortfolioApp\\Pages\\About.razor",
+              "RelativeToolTip": "Pages\\About.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-25T17:42:15.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.razor.css",
+              "DocumentMoniker": "C:\\Users\\kcray\\OneDrive\\Desktop\\multiplatform app development\\MyPortfolioApp\\Pages\\Index.razor.css",
+              "RelativeDocumentMoniker": "Pages\\Index.razor.css",
+              "ToolTip": "C:\\Users\\kcray\\OneDrive\\Desktop\\multiplatform app development\\MyPortfolioApp\\Pages\\Index.razor.css",
+              "RelativeToolTip": "Pages\\Index.razor.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-09-25T19:13:04.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\kcray\\OneDrive\\Desktop\\multiplatform app development\\MyPortfolioApp\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\kcray\\OneDrive\\Desktop\\multiplatform app development\\MyPortfolioApp\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-25T18:46:10.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MyPortfolioApp.csproj",
+              "DocumentMoniker": "C:\\Users\\kcray\\OneDrive\\Desktop\\multiplatform app development\\MyPortfolioApp\\MyPortfolioApp.csproj",
+              "RelativeDocumentMoniker": "MyPortfolioApp.csproj",
+              "ToolTip": "C:\\Users\\kcray\\OneDrive\\Desktop\\multiplatform app development\\MyPortfolioApp\\MyPortfolioApp.csproj",
+              "RelativeToolTip": "MyPortfolioApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-25T17:29:13.491Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+wwwroot\css\app.css
+wwwroot\css\bootstrap\bootstrap.min.css
+wwwroot\css\bootstrap\bootstrap.min.css.map
+wwwroot\index.html
+C:\Users\kcray\OneDrive\Desktop\multiplatform app development\MyPortfolioApp\wwwroot\css\bootstrap\bootstrap.min.css
+C:\Users\kcray\OneDrive\Desktop\multiplatform app development\MyPortfolioApp\wwwroot\css\bootstrap\bootstrap.min.css.map
+C:\Users\kcray\OneDrive\Desktop\multiplatform app development\MyPortfolioApp\wwwroot\index.html
+C:\Users\kcray\OneDrive\Desktop\multiplatform app development\MyPortfolioApp\wwwroot\css\app.css

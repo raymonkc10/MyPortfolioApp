@@ -1,0 +1,16 @@
+.hero h1[b-8ulodveycn] {
+    color: #3498db;
+    font-size: 2.5rem;
+}
+
+.hero img[b-8ulodveycn] {
+    max-width: 100%;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}
+
+@media (max-width: 768px) {
+    .hero h1[b-8ulodveycn] {
+        font-size: 2rem;
+    }
+}

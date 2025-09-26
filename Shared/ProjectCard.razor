@@ -1,0 +1,23 @@
+﻿<div class="project-card">
+    @if (!string.IsNullOrEmpty(ImageUrl))
+    {
+        <img src="@ImageUrl" alt="@(Title ?? "Project") image">
+    }
+    else
+    {
+        <p>No image available.</p>
+    }
+    <h2>@(Title ?? "Untitled Project")</h2>
+    <p>@(Description ?? "No description provided.")</p>
+    @if (!string.IsNullOrEmpty(Link))
+    {
+        <a href="@Link" target="_blank" class="project-link">View on GitHub</a>
+    }
+</div>
+
+@code {
+    [Parameter] public string? Title { get; set; } = null;
+    [Parameter] public string? Description { get; set; } = null;
+    [Parameter] public string? ImageUrl { get; set; } = null;
+    [Parameter] public string? Link { get; set; } = null;
+}

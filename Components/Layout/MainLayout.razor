@@ -1,0 +1,20 @@
+﻿@inherits LayoutComponentBase
+
+<div class="page">
+    <NavMenu />
+
+    <main>
+        <ErrorBoundary>
+            <ChildContent>
+                @Body
+            </ChildContent>
+            <ErrorContent>
+                <p class="error-ui">An error occurred. Check logs or reload.</p>
+            </ErrorContent>
+        </ErrorBoundary>
+    </main>
+
+    <footer class="page-footer">
+        <p>© 2025 Raymon KC</p>
+    </footer>
+</div>

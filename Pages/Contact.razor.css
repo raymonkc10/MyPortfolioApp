@@ -1,0 +1,32 @@
+.contact-main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 50vh;
+}
+
+.contact-section {
+    text-align: center;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+    .contact-section p {
+        margin: 0.5rem 0;
+    }
+
+    .contact-section a {
+        color: #3498db;
+        text-decoration: none;
+    }
+
+        .contact-section a:hover {
+            text-decoration: underline;
+        }
+
+@media (max-width: 768px) {
+    .contact-main {
+        min-height: 40vh;
+    }
+}

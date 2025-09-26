@@ -1,0 +1,19 @@
+﻿<nav class="navbar">
+    <ul>
+        <li><NavLink href="/" Match="NavLinkMatch.All">Home</NavLink></li>
+        <li><NavLink href="/about">About</NavLink></li>
+        <li><NavLink href="/projects">Projects</NavLink></li>
+        <li><NavLink href="/contact">Contact</NavLink></li>
+    </ul>
+</nav>
+
+@code {
+    private bool collapseNavMenu = true;
+
+    private string NavMenuCssClass => collapseNavMenu ? "collapse" : null;
+
+    private void ToggleNavMenu()
+    {
+        collapseNavMenu = !collapseNavMenu;
+    }
+}

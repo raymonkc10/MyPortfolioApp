@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\kcray\\OneDrive\\Desktop\\multiplatform app development\\MyPortfolioApp\\obj\\Debug\\net9.0-android\\scopedcss\\bundle\\MyPortfolioApp.styles.css",
+      "PackagePath": "staticwebassets\\MyPortfolioApp.styles.css"
+    },
+    {
+      "Id": "C:\\Users\\kcray\\OneDrive\\Desktop\\multiplatform app development\\MyPortfolioApp\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\kcray\\OneDrive\\Desktop\\multiplatform app development\\MyPortfolioApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kcray\\OneDrive\\Desktop\\multiplatform app development\\MyPortfolioApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kcray\\OneDrive\\Desktop\\multiplatform app development\\MyPortfolioApp\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0-android\\staticwebassets\\msbuild.MyPortfolioApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0-android\\staticwebassets\\msbuild.MyPortfolioApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0-android\\staticwebassets\\msbuild.build.MyPortfolioApp.props",
+      "PackagePath": "build\\MyPortfolioApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0-android\\staticwebassets\\msbuild.buildMultiTargeting.MyPortfolioApp.props",
+      "PackagePath": "buildMultiTargeting\\MyPortfolioApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0-android\\staticwebassets\\msbuild.buildTransitive.MyPortfolioApp.props",
+      "PackagePath": "buildTransitive\\MyPortfolioApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
