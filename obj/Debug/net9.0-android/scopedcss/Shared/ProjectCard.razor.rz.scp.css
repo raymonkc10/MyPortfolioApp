@@ -23,8 +23,31 @@
         margin: 0.5rem 0;
     }
 
+    .project-card .project-link[b-3nwj0j2uwn] {
+        display: inline-block;
+        margin-top: 0.5rem;
+        padding: 0.25rem 0.5rem;
+        background-color: #3498db;
+        color: white;
+        text-decoration: none;
+        border-radius: 4px;
+    }
+
+        .project-card .project-link:hover[b-3nwj0j2uwn] {
+            background-color: #2980b9;
+        }
+
 @media (max-width: 768px) {
     .project-card[b-3nwj0j2uwn] {
         width: 100%;
     }
+}
+
+.page-footer[b-3nwj0j2uwn] {
+    text-align: center;
+    padding: 1rem;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #f8f9fa;
 }

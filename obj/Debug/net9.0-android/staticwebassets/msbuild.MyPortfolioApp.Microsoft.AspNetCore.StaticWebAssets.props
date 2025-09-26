@@ -92,12 +92,12 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName>ScopedCss</AssetTraitName>
       <AssetTraitValue>ApplicationBundle</AssetTraitValue>
-      <Fingerprint>dafxge4ayi</Fingerprint>
-      <Integrity>W2wUJ4QmCqqIT7dzMMnT5QTGJnetlSmsjWl+ceBs7XQ=</Integrity>
+      <Fingerprint>w0c9kn3bcs</Fingerprint>
+      <Integrity>4BoOf0PjpHef2eXD2CRYdOpCTKI++Wow925x5UObSLs=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <FileLength>7862</FileLength>
-      <LastWriteTime>Thu, 25 Sep 2025 23:19:58 GMT</LastWriteTime>
+      <FileLength>8374</FileLength>
+      <LastWriteTime>Fri, 26 Sep 2025 03:28:44 GMT</LastWriteTime>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MyPortfolioApp.styles.css'))</OriginalItemSpec>
     </StaticWebAsset>
   </ItemGroup>
